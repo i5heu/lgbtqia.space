@@ -14,3 +14,7 @@ path = 'github.com/alex-shpak/hugo-book'
   BookRepo = 'https://github.com/alex-shpak/hugo-book'
   BookSearch = false
   BookComments = false
+  BookLogo = 'logo.png'
+
+  [markup.goldmark.renderer]
+  unsafe = true
