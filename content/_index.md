@@ -18,3 +18,5 @@ Find the server rules [here](/docs/server-rules/)
 If you're interested in statistics about the main Server, you can find them on https://stats.lgbtqia.space 
 
 You can also find information about the instance on https://fediverse.observer/lgbtqia.space or https://the-federation.info/node/lgbtqia.space
+
+Check out the Status page for the instance at https://status.lgbtqia.space/
